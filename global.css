@@ -1,0 +1,19 @@
+.cell {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+}
+
+.true{
+	background-color: black;	
+}
+
+.false {
+	background-color: white;	
+}
+
+.button {
+	position: absolute;
+	top: 20px;
+	right: 100px;	
+}	
