@@ -1,19 +1,32 @@
+
 .cell {
 	position: absolute;
 	width: 20px;
 	height: 20px;
+	border: 1px black solid;
 }
 
 .true{
 	background-color: black;	
+	color: white;
 }
 
 .false {
 	background-color: white;	
 }
 
-.button {
+#buttons {
 	position: absolute;
 	top: 20px;
 	right: 100px;	
-}	
+}
+
+#matrix {
+    margin: 0 auto;
+    margin-top: 300px    
+}
+
+input {
+    width: 30px;    
+}    
+         
